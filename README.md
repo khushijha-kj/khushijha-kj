@@ -7,17 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/khushijha_kj" target="blank"><img src="https://img.shields.io/twitter/follow/khushijha_kj?logo=twitter&style=for-the-badge" alt="khushijha_kj" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Core Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khushijha-kj](https://github.com/khushijha-kj)
 
 - 📝 I regularly write articles on [https://medium.com/@khushijhakj2311](https://medium.com/@khushijhakj2311)
 
 - 📫 How to reach me **khushijhakj2311@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ra7hW1uvrPcN_YJ1hJzDCAFlGy875kP7/view](https://drive.google.com/file/d/1ra7hW1uvrPcN_YJ1hJzDCAFlGy875kP7/view)
-
-- ⚡ Fun fact **I compare coding to cooking—except in coding, the recipe changes every time you run it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
